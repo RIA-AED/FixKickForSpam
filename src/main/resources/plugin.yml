@@ -1,0 +1,6 @@
+name: FixKickForSpam
+version: '${project.version}'
+main: ink.magma.fixkickforspam.FixKickForSpam
+api-version: '1.18'
+authors: [ MagmaBlock ]
+description: Cancel any kick with reason "Kicked for spamming"
